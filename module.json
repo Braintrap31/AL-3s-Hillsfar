@@ -35,8 +35,8 @@
 "styles": [
 "styles/dnd-phandelver-below.css"
 ],
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/Braintrap31/AL-3s-Hillsfar/main/module.json",
+  "download": "https://www.dropbox.com/scl/fi/1r4zfz0248t4sm0hy0s3f/bs-zagnannye-v-hillsfare-al-3s-ddex3-1-20240421T212130Z-001.zip?rlkey=20b0w1x0ajofv3tl0eh2qj36a&st=q0j064df&dl=1",
   "relationships": {
     "recommends": [
       {
