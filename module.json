@@ -36,7 +36,7 @@
 "styles/dnd-phandelver-below.css"
 ],
   "manifest": "",
-  "download": ",
+  "download": "",
   "relationships": {
     "recommends": [
       {
