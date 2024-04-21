@@ -1,0 +1,70 @@
+{
+  "id": "bs-zagnannye-v-hillsfare-al-3s-ddex3-1",
+  "title": "BS  Загнанные в Хиллсфаре AL 3s DDEX3-1",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/bs-zagnannye-v-hillsfare-al-3s-ddex3-1/assets/art/setup.png",
+      "thumbnail": "modules/bs-zagnannye-v-hillsfare-al-3s-ddex3-1/assets/art/setup.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "braintrap-studio-zagnannye-v-hillsfare-al-3s-ddex3-1",
+      "label": "BS Загнанные в Хиллсфаре DDEX3-1",
+      "banner": "modules/bs-zagnannye-v-hillsfare-al-3s-ddex3-1/assets/art/banner.webp",
+      "path": "packs/braintrap-studio-zagnannye-v-hillsfare-al-3s-ddex3-1",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+"esmodules": [
+"scripts/dnd-phandelver-below.mjs"
+],
+"styles": [
+"styles/dnd-phandelver-below.css"
+],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module"
+      },
+      {
+        "id": "stairways",
+        "type": "module"
+      },
+      {
+        "id": "item-piles",
+        "type": "module"
+      },
+      {
+        "id": "laaru-dnd5-hw",
+        "type": "module"
+      },
+      {
+        "id": "socketlib",
+        "type": "module"
+      },
+      {
+        "id": "fxmaster",
+        "type": "module"
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  }
+}
