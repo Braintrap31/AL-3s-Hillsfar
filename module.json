@@ -1,7 +1,7 @@
 {
   "id": "bs-zagnannye-v-hillsfare-al-3s-ddex3-1",
   "title": "BS  Загнанные в Хиллсфаре AL 3s DDEX3-1",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -29,44 +29,51 @@
       }
     }
   ],
-"esmodules": [
-"scripts/dnd-phandelver-below.mjs"
-],
-"styles": [
-"styles/dnd-phandelver-below.css"
-],
+  "esmodules": [
+    "scripts/dnd-phandelver-below.mjs"
+  ],
+  "styles": [
+    "styles/dnd-phandelver-below.css"
+  ],
   "manifest": "https://raw.githubusercontent.com/Braintrap31/AL-3s-Hillsfar/main/module.json",
-  "download": "https://www.dropbox.com/scl/fo/9ib499fqu28jp1sd95z8n/AMTLKTjmtREsXzJ866ZN3F0?rlkey=tnxxegs5zpq9v1fa8kauhhlux&st=loln27yu&dl=1",
+  "download": "https://www.dropbox.com/scl/fo/9ib499fqu28jp1sd95z8n/AMTLKTjmtREsXzJ866ZN3F0?rlkey=tnxxegs5zpq9v1fa8kauhhlux&st=epdzodsw&dl=1",
   "relationships": {
     "recommends": [
       {
-        "id": "monks-enhanced-journal",
-        "type": "module"
-      },
-      {
         "id": "stairways",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "item-piles",
-        "type": "module"
-      },
-      {
-        "id": "laaru-dnd5-hw",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "socketlib",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "fxmaster",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "lib-wrapper",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://boosty.to/braintrapstudio?isFromFeed=true",
+  "description": "Модуль приключения \"Загнанные в Хиллсфаре\" от Braintrap Studio\n\nВ деревне Эльфодрево, что недалеко от гнетущего своей атмосферой города Хиллсфара, недавно стали происходить странные и неприятные вещи, что поставило местных жителей практически на грань между жизнью и смертью. Пять знаменитых фракций собрались на границе леса Кормантор, чтобы узнать, что же здесь происходит. Происки ли это правителей Хиллсфара, или же нечто большее?",
+  "authors": [
+    {
+      "name": "Braintrap Studio",
+      "discord": "https://discord.gg/BG8dCQ3a7T",
+      "email": "braintrapstudio@gmail.com",
+      "url": "https://boosty.to/braintrapstudio?isFromFeed=true"
+    }
+  ]
 }
